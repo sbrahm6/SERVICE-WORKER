@@ -3,7 +3,7 @@
     "background_color": "#690505",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/lab5.html",
+    "start_url": "/",
     "app_name": "Lab5",
     "short_name": "Emp Search",
     "description": "Search the City of Chicago Employees database",
